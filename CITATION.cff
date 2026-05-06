@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software, please cite it as below.
+  如果使用本软件，请按以下格式引用。
+type: software
+title: "CN-627 RCWA Validator"
+abstract: "Lightweight 1D-RCWA validator (TE, normal incidence) with TMM cross-verification. Pure NumPy."
+version: "0.1.0"
+date-released: "2026-04-01"
+authors:
+- family-names: "T.z"
+  given-names: ""
+  affiliation: "Independent Researcher / 独立研究者"
+license: MIT
+repository-code: "https://github.com/CN-627-Cyborg-Lab/cn627-rcwa"
+keywords:
+  - RCWA
+  - optics
+  - diffraction grating
+  - photonics
+  - validation
+  - AI-assisted development
+acknowledgements: >-
+  This software was developed through human-AI collaboration.
+  The author (T.z) supervised the physics, validated all results against literature
+  (Moharam 1995, Li 1996) and analytical solutions (TMM), and guided the
+  AI through iterative debugging.
+  Code implementation was assisted by Claude Opus 4.6.
+
+  本软件通过人机协作开发。
+  作者（T.z）负责物理监督，对照文献（Moharam 1995、Li 1996）和解析解（TMM）验证所有结果，
+  并通过迭代调试指导 AI。
+  代码实现由 Claude Opus 4.6 辅助完成。
